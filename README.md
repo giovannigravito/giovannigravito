@@ -34,7 +34,7 @@
 
 ##
 <!-- SOCIAL SECTION -->
-<p>🇧🇷 Minhas mídias sociais / 🇺🇸 My social medias</p>
+<p><b>🇧🇷 Minhas mídias sociais / 🇺🇸 My social medias</b></p>
   <br/>
 <div style="display: inline_block">
   <!--GMAIL-->
@@ -52,6 +52,45 @@
 </div>
   
 ##
+  
+<!--BOOTCAMP-STUDY-RESOURCE SECTION-->
+ 
+  <p> 🇧🇷 Alguns bootcamps free e fontes de estudos / 🇺🇸 Some free bootcamps and study resources <p/>
+  
+  <div>
+    <h4><b>Bootcamps</b></h4>
+    <!-- FREECODECAMP -->
+    <a href="https://www.freecodecamp.org/" target="_blank">
+      <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
+    </a>
+    <!-- DATACAMP -->
+    <a href="https://www.datacamp.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" target="_blank">
+    </a>
+    <!-- CODEACADEMY -->
+    <a href="https://www.codecademy.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank">
+    </a>
+    <h4><b>Fontes de estudo / Study resource</b></h4>
+    <!-- MEDIUM -->
+    <a href="https://medium.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+    </a>
+    <!-- DEV.TO -->
+    <a href="https://dev.to/" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-FFF?style=for-the-badge&logo=devdotto&logoColor=black" target="_blank">
+    </a>
+    <!-- YOUTUBE -->
+    <a href="https://www.youtube.com/" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+    <!-- GOOGLE -->
+    <a href="https://www.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Google-3385FF?style=for-the-badge&logo=google&logoColor=white" target="_blank">
+    </a>
+  </div>
+  
+  
 
 <!-- TECHS INTERESTS SECTION -->
 
