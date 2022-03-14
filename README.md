@@ -1,42 +1,19 @@
-<p><h3>🇧🇷 Olá! Eu sou o Giovanni Gravito C. Chrysostomo / 🇺🇸 Hey there! I am Giovanni Gravito C. Chrysostomo</h3></p>
+> ## Hey There! 
 
-##
+I'm Giovanni Gravito C. Chrysostomo, I'm from Brazil 🇧🇷 and I'm also a Master Degree from the Graduate Program in Electrical and Computer Engineering at Universidade Presbiteriana Mackenzie.
 
-<div>
-  <h6> 🇧🇷 Como tradição, em qualquer linguagem de programção, para termos sorte, devemos sempre: print("Hello World!") 😄 </h6>
-  <h6> 🇺🇸 As a matter of tradition, in any programming language, to get luck, we always should: print("Hello World!") 😄 </h6>
-</div>
+DataScience is my interest field and ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) and ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) language are the main things that make me an enthusiast!
 
-##
+I published some papers related to DataScience while I was at master degree and here they are:
 
-<!-- INTRODUCTION SECTION -->
-<div>
-  <br/>
-  <ul>
-    <li>
-        🔭 🇧🇷 Atualmente trabalho com desenvolvimento/otimização na linguagem R <!--<img align="center" alt="r-language" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">--> <br/>
-        🔭 🇺🇸 I’m currently working on development/optimization using R language <!--<img align="center" alt="r-language" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">-->
-    </li>
-      <hr/>
-    <li>
-      🌱 🇧🇷 Estudando: aprendizado de máquina para melhorar meu conhecimento
-      <br/>
-      🌱 🇺🇸 Learning: machine learning/AI to improve my knowledge about it 
-    </li>
-      <hr/>
-    <li>
-      ⚡ 🇧🇷 Fato engraçado: if(!FALSE){ \\É engraçado porque é verdade }
-      <br/>
-      ⚡ 🇺🇸 Fun Fact: if(!FALSE){ \\It's funny because it's true }
-    </li>
-  </ul>
-</div>
+- A Framework for Big Data Analytical Process and Mapping—BAProM: Description of an Application in an Industrial Environment  [MDPI-Energies](https://www.mdpi.com/1996-1073/13/22/6014)
+- Analytical Workbench: A Framework to Support Predictive Maintenance of Industrial Systems [CLEI-2020](https://ieeexplore.ieee.org/document/9458368)
 
 ##
 <!-- SOCIAL SECTION -->
-<p><b>🇧🇷 Minhas mídias sociais / 🇺🇸 My social medias</b></p>
+- __Reach me__
   <br/>
-<div style="display: inline_block">
+<div style="display: inline_block;">
   <!--GMAIL-->
   <a href="mailto:giovannigravito@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -55,10 +32,9 @@
   
 <!--BOOTCAMP-STUDY-RESOURCE SECTION-->
  
-  <p> 🇧🇷 Alguns bootcamps free e fontes de estudos / 🇺🇸 Some free bootcamps and study resources <p/>
+  - __Some useful studying spots__
   
-  <div>
-    <h4><b>Bootcamps</b></h4>
+  <div style='display: inline;'>    
     <!-- FREECODECAMP -->
     <a href="https://www.freecodecamp.org/" target="_blank">
       <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
@@ -71,7 +47,6 @@
     <a href="https://www.codecademy.com/" target="_blank">
       <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank">
     </a>
-    <h4><b>Fontes de estudo / Study resource</b></h4>
     <!-- MEDIUM -->
     <a href="https://medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
@@ -83,6 +58,10 @@
     <!-- YOUTUBE -->
     <a href="https://www.youtube.com/" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+    <!-- DATAQUEST -->
+    <a href="https://www.dataquest.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Dataquest-05192D?style=for-the-badge&logo=dataquest&logoColor=blue" target="_blank">
     </a>
     <!-- GOOGLE -->
     <a href="https://www.google.com/" target="_blank">
