@@ -22,10 +22,10 @@ I published some papers related to DataScience while I was at master degree and 
   <a href="mailto:giovannigravito@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  <!--INSTAGRAM-->
-  <a href="https://www.instagram.com/gichrys_/">
+  <!--Change for LINKEDIN later-->
+  <!--<a href="https://www.instagram.com/gichrys_/">
     <img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
-  <a/>
+  <a/>-->
 </div>
   
 ##
