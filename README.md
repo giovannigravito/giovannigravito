@@ -10,6 +10,41 @@ I published some papers related to DataScience while I was at master degree and 
 - Analytical Workbench: A Framework to Support Predictive Maintenance of Industrial Systems [CLEI-2020](https://ieeexplore.ieee.org/document/9458368)
 
 ##
+<!--GITHUB README STATUS-->
+
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannigravito&show_icons=true&theme=material-palenight)
+
+<!--br-->
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigravito&layout=compact&theme=gotham)](https://github.com/giovannigravito/github-readme-stats)  
+
+<!--br-->
+##
+
+<!--predicting_weather-->
+<a href="https://github.com/giovannigravito/predicting_weather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=predicting_weather&theme=nord&show_owner=true" />
+</a>
+<!--web-scraper-scrapy-->
+<a href="https://github.com/giovannigravito/web-scraper-scrapy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=web-scraper-scrapy&theme=nord&show_owner=true" />
+</a>
+<!--profitable-apps-->
+<a href="https://github.com/giovannigravito/profitable-apps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=profitable-apps&theme=nord&show_owner=true" />
+</a>
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=predicting_weather&theme=nord&show_owner=true)](https://github.com/giovannigravito/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=web-scraper-scrapy&theme=nord&show_owner=true)](https://github.com/giovannigravito/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=web-scraper-scrapy&theme=nord&show_owner=true)](https://github.com/giovannigravito/github-readme-stats)-->
+
+<!--br-->
+##
+
 <!-- SOCIAL SECTION -->
 - __Reach me__
   <br/>
