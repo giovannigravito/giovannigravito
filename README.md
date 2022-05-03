@@ -2,7 +2,7 @@
 
 I'm Giovanni Gravito C. Chrysostomo, I'm from Brazil 🇧🇷 and I'm also a Master Degree from the Graduate Program in Electrical and Computer Engineering at Universidade Presbiteriana Mackenzie.
 
-DataScience is my interest field and ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) and ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) language are the main things that make me an enthusiast!
+I'm always looking for improving my Data Science skills and I enjoy using ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) and ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998) for this purpose. Actually I also enjoy programming in general and someday in the future I shall upload some code that are not totally related to Data Science 😅
 
 I published some papers related to DataScience while I was at master degree and here they are:
 
@@ -33,6 +33,10 @@ I published some papers related to DataScience while I was at master degree and 
 <!--profitable-apps-->
 <a href="https://github.com/giovannigravito/profitable-apps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=profitable-apps&theme=nord&show_owner=true" />
+</a>
+<!--classification-examples-dl-->
+<a href="https://github.com/giovannigravito/classification-example-dl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giovannigravito&repo=classification-example-dl&theme=nord&show_owner=true" />
 </a>
 
 <!--
